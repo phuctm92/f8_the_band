@@ -122,8 +122,39 @@ html {
 }
 
 #content {
-
 }
+
+#content .section-content {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 64px 10px;
+}
+
+#content .content-heading {
+  margin: 10px 0;
+  font-weight: 400;
+  font-size: 30px;
+  letter-spacing: 4px;
+  text-align: center;
+  line-height: 45px;
+}
+
+#content .content-sub-heading {
+  font-style: italic;
+  text-align: center;
+  font-size: 15px;
+  opacity: 0.6;
+  margin: 15px 0;
+}
+
+#content .about-content {
+  text-align: justify;
+  line-height: 23px;
+  font-size: 15px;
+  margin: 15px 0;
+}
+
 
 #footer {
 
